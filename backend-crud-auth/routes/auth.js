@@ -28,9 +28,7 @@ router.get("/login/success", (req, res) => {
       //cookies: req.cookies
     });
   }
-  else{
-    res.status(400).json({success: false, message: "Invalid Credentials Or Not Logged In"});
-  }
+  
 });
 
 router.get("/login/failed", (req, res) => {
@@ -41,9 +39,7 @@ router.get("/login/failed", (req, res) => {
   });
 });
 
-router.get('/success/authentication',(req, res) => {
-  console.log(req.body)
-})
+
 
 
 router.get("/logout", (req, res) => {
