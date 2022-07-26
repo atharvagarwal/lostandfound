@@ -48,7 +48,7 @@ router.get('/success/authentication',(req, res) => {
 
 router.get("/logout", (req, res) => {
   
-  req.logout();
+  req.logOut();
   res.redirect(CLIENT_URL);
 });
 
