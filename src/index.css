@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Staatliches', cursive;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1640' height='800' preserveAspectRatio='none' viewBox='0 0 1640 800'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1041%26quot%3b)' fill='none'%3e%3crect width='1640' height='800' x='0' y='0' fill='rgba(33%2c 39%2c 42%2c 1)'%3e%3c/rect%3e%3cpath d='M1640 0L926.53 0L1640 164.21z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M926.53 0L1640 164.21L1640 370.96000000000004L465.82 0z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M465.81999999999994 0L1640 370.96000000000004L1640 518.8000000000001L277.28999999999996 0z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M277.28999999999996 0L1640 518.8000000000001L1640 698.0100000000001L83.64999999999998 0z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M0 800L535.04 800L0 499.04z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M0 499.04L535.04 800L676.48 800L0 450.08000000000004z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M0 450.08000000000004L676.48 800L1223.25 800L0 175.94000000000005z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M0 175.94000000000005L1223.25 800L1334.94 800L0 59.550000000000054z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1041'%3e%3crect width='1640' height='800' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+
+}
+
+code {
+  font-family: 'Staatliches', cursive;
+}
+

@@ -1,0 +1,86 @@
+
+
+.card-flex-div-nested{
+    display: flex;
+    flex-direction:column;
+    gap:0.6rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.cardd{
+    background-color:rgb(36, 31, 31);
+    width:88vw;
+    color:white;
+    padding:0.5rem;
+    margin:0.5rem;
+}
+.cardd:hover{
+    background-color:rgb(69, 65, 65);
+    }
+
+.contact{
+   
+   padding:0.5rem;
+   margin:0.5 auto;
+}
+
+.desc{
+font-size: 0.98rem;
+
+
+}
+
+
+.img-card{
+    width: 10vw;
+   
+    display:block;
+    margin:0.25rem auto;
+}
+
+.card-head{
+    color:white;
+    text-align:center;
+}
+
+.contact{
+    
+    padding:0.15rem;
+}
+
+@media only screen and (max-width: 850px){
+.img-card{
+    width: 50vw;
+}
+
+.desc{
+    font-size: 0.45rem;
+    white-space: wrap;
+    
+}
+
+.card-flex-div-nested{
+   
+    flex-direction:column;
+    
+}
+
+}
+
+
+@media only screen and (max-width: 1500px){
+    .img-card{
+        width: 20vw;
+    }
+  
+   
+    
+    }
+
+.p-div{
+    width:20vw;
+}
